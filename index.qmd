@@ -1,5 +1,5 @@
 ---
-title: "the \"I love Lindsey\" blog"
+title: "analytics_blog"
 listing:
   contents: posts
   sort: "date desc"
